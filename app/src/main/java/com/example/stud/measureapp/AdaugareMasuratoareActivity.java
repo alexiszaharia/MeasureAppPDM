@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -59,6 +60,9 @@ public class AdaugareMasuratoareActivity extends AppCompatActivity {
                     public void onReceive(Context context, Intent intent) {
                         Bundle bundle = intent.getBundleExtra("bundle");
                         ArrayList<Punct> listaPuncte = (ArrayList<Punct>) bundle.getSerializable("listaPuncte");
+                        for(Punct punct: listaPuncte) {
+                            Log.i("STOP", punct.toString());
+                        }
                         masuratoare.setListaPuncte(listaPuncte);
                     }
                 };
