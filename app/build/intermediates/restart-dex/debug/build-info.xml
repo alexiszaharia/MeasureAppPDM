@@ -2,26 +2,30 @@
 <instant-run
     abi="x86"
     api-level="25"
-    build-mode="HOT_WARM"
+    build-mode="COLD"
     density="hdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1521049684915"
+    timestamp="1521052778463"
     token="-8000876270105752681"
-    verifier="NO_CHANGES" >
+    verifier="CLASS_ADDED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="223" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="86" />
     <task
         name="verifier"
-        duration="0" />
+        duration="9" />
+
+    <artifact
+        location="T:\MeasureApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
@@ -74,23 +78,11 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1521045422245"
+        timestamp="1521052778463"
         verifier="CLASS_ADDED" >
         <artifact
             location="T:\MeasureApp\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
     </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1521049408656"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="T:\MeasureApp\app\build\intermediates\builds\debug\1521049408656\classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1521049684915"
-        verifier="NO_CHANGES" />
 
 </instant-run>

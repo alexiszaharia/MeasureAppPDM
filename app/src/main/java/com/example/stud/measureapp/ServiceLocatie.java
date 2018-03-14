@@ -52,6 +52,7 @@ public class ServiceLocatie extends Service {
         Bundle bundle = new Bundle();
         bundle.putSerializable("listaPuncte", listaPuncte);
         Intent intent = new Intent();
+        intent.setAction("lista");
         intent.putExtra("bundle", bundle);
         sendBroadcast(intent);
     }

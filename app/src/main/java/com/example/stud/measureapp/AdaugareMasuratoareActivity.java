@@ -3,6 +3,7 @@ package com.example.stud.measureapp;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -27,6 +28,19 @@ public class AdaugareMasuratoareActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_adaugare_masuratoare);
 
+        final BroadcastReceiver broadcastReceiver = new BroadcastReceiver() {
+            @Override
+            public void onReceive(Context context, Intent intent) {
+                Log.i("onReceive", "Incepe Bundle");
+                Bundle bundle = intent.getBundleExtra("bundle");
+                ArrayList<Punct> listaPuncte = (ArrayList<Punct>) bundle.getSerializable("listaPuncte");
+                for(Punct punct: listaPuncte) {
+                    Log.i("STOP", punct.toString());
+                }
+                masuratoare.setListaPuncte(listaPuncte);
+            }
+        };
+
         btnStart = (Button) findViewById(R.id.btnStart);
         btnStop = (Button) findViewById(R.id.btnStop);
         denumireMasuratoare = (EditText) findViewById(R.id.denumireMasuratoare);
@@ -45,6 +59,8 @@ public class AdaugareMasuratoareActivity extends AppCompatActivity {
                     Intent intent = new Intent(AdaugareMasuratoareActivity.this, ServiceLocatie.class);
                     startService(intent);
 
+                    registerReceiver(broadcastReceiver, new IntentFilter("lista"));
+
                 }
             }
         });
@@ -55,17 +71,8 @@ public class AdaugareMasuratoareActivity extends AppCompatActivity {
                 Intent intentService = new Intent(AdaugareMasuratoareActivity.this, ServiceLocatie.class);
                 stopService(intentService);
 
-                BroadcastReceiver broadcastReceiver = new BroadcastReceiver() {
-                    @Override
-                    public void onReceive(Context context, Intent intent) {
-                        Bundle bundle = intent.getBundleExtra("bundle");
-                        ArrayList<Punct> listaPuncte = (ArrayList<Punct>) bundle.getSerializable("listaPuncte");
-                        for(Punct punct: listaPuncte) {
-                            Log.i("STOP", punct.toString());
-                        }
-                        masuratoare.setListaPuncte(listaPuncte);
-                    }
-                };
+                unregisterReceiver(broadcastReceiver);
+
                 Intent intent =  new Intent();
                 intent.putExtra("masuratoare", masuratoare);
                 setResult(RESULT_OK, intent);
