@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "T:\\MeasureApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "T:\\MeasureApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "T:\\MeasureApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "T:\\MeasureApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

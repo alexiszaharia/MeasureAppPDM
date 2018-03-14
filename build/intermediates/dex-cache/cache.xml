@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\5a5e0e8128338cb95b6278e130b1e302c2ab852b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0423238732478647b7d5d1fe24e15676be160e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\50fee2f6bfa71b81a4a17419b96365d71946d2b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_230992af962d0f54ecad58e46f1118589d288d7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\6c3134ea1ce7ad34e683f6d21b805682ff28a4cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c58b5415d6a66a79ca8841089e7cb44be7eba923\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\ad1543fb8af0500a1fde10fafc2c6e0133bb9a05\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c696f90a23ab51894c49ec55df3fd0b65528c2eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\ca41750f9f716908e896dce708c37ba7ccb283ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85a3add0db3fb6ca1329a1d7aa86ec688f04000d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\0df2e18adfce89e4900a3de2cdbcc05a16b66f63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e9264afaf2154f18bb727acbee5c80bc66dffe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\8040d0ad9eb74ef3153cfd439f0a0698e94ec573\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2d1769fae3d255a77a4363e6b73a19cd8ad22db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\be450bb964e59181b0a53889d28baad6fb050c76\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f51c1303f5b71e24ac206e4128d894728d40b7ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\cafcbd6034360165e0c7626fb6d8391317741ac5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_940c8d680f022e1263f64d2c2672aa22a42c8ea0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\cf37875575fd2a1ad8f927a90da26046ebd3db95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29b22299b24a59b0bb0ddeb975d00c5b319a9342\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\cdb6d46261375aabe693a9c96bc05dd59ac4ec73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25dee2d0a3c369fe8a3de8d4b1ef2a4fc3a97653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\5c30e496a4ba07740bf3c3be5c8d813dad00b11e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1fa7f8d5b1aeeb9d8ca83dcaf8c942083fc516d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\305c72a1e6d3240fe883b7c90532f676e2d939c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_181610935b84de00a70151877a3226e0214315d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\5c3745a8b5a635fca66723ffe5a96ac94089cf75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f8ca3d691b66cab33b6a08edd7c48679939807f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\bfbd061d12c27b5669c113b8d7ba507176b5462f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c47ba0cb2ee47c632d1f1e6a0abda490608b2678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\a113020fab503be8df5fc59514b00c4ae28083aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8c1fb47475de9de0f2b577987d9a3c1c227bed7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\494bb368bf40223d6b4da476fb2c36f094272637\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec30aafdd1a96d3a64fdeb8532fc9a1c29e43a51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\b6fbeba25982b3f164db3d93b727e82be45a7a5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b416ca0a9a4f2980cbc9b8d83e84cdb336c54b55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\c49b94d994b17635676f3242a2cf3887c8b2f003\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e70f1de84b01c5baf5f49c75a23ba920cc81d7a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\5bc5cd3df90c8135326e69d66e71b367c88151b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddc9a7aa07caed7de7d5aa5db1be86b73025d58f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\14c9140476739f8506a1feb18c708abf989b02e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_164670345a8e6819052b84f7e0121914eb518aa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="T:\MeasureApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="306833cac48ab8dbaea588cd607b26cc43c76c14">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5a678a1aee2230c5aff0f16d59a67ed7d502c559\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\31603a2f008dc9c572002518c38192c9c80469b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fafc49086e15d61c10743bea2540efb2d1380bbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\94e8e852c33d03f7830dc3c349eabf30c2d8a410\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10a598871fda602960dc0d9c73380b95329428fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\3b8dce5d81f62cf075b0d089f2b8fcbf9ef58340\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_098d5a4619ba612a37eed08140e26c12a56cb7c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\227c8423cdad1baabb53bd18e5d75168867698c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e5b9c372960cc6b73bef03175fc777940e7814c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="T:\MeasureApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ec288cdcdc58633905f3e44660ccdc9bcc3de6d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\61bb00bfcca3783a5ca840e05a7e6514894a3b15\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f42800673723485db78adea85956487ffaf40c31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\d023f206183ed8d2c45bcb785a447f8604eaa0e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_661cde1999cf1f7affdced178ff4581edbc0c64c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\6522238ddfa32a0b22ddbc04e2d3b0757ba21ddb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_031a8e85fd9a924bb885ecc76e10d63a875e12ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\f4fb7316a7389d1c2938ad76219bb206d5099b7f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35e0f7352c84c996f4a70528c8ac5e747fc108f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\048d2efc4a178aff4bc007fdb8a170a41977e5d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b0e2af98bb1e5d2fd53fc3ec137e28e7db8083f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\6a02b2e96abadc93953eef3f0ce7ebd2c30d1425\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1964576fe3b599a4f400261025c000c97e34c4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\78a8b31627ae2a53dfa87b3967f394cb41b08cfa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff72b7c471e89f093e7d9b43df6b004d1cfed477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\82f5043e79b7ffde0d2f54bc38b1cf1efb2f2672\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_930f5f2cc764a839ee460a67f9cb2ac8f56f10d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\0ebe03c3872decb88b34246a074ba00570127461\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5670207ab007ea9b7913e8f1dc7ebd7e4735d43b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\e39d6792190eb041eb52cdd2d6ceacf841e1453d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db990d6ccf3d599e19d1e3fffdc78235d23d528c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\384491dc7974cc4139ea95862cffe42429ef143e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7806645a5ee499f03cd89ed2d6dfe59c86d301c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\b30a82f41500b0531de7fbdd6ca18f8b0de5daf3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_133c45975197257137b5fe145660201a48e25485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\a9304ed43637d49294d2bc1dc2fdb575e83fc704\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acfe223b292577d71dc743a7005d276ba9e52a37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\0ab90416c8758383f3c3911b22fd26681e9c4154\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b46035eb9601a28a8b6c1a67c1ae51748567d580\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\0a368880d93124503221a9d29276486764f001d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2f814649e6adcdc6b902f4fa48406be0fe3045b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\debc42c041c2606ae851b3e35149a0d91877755f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f230c177657acd4e7b22baa015aeeef676f29cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\19c495cd26b88fc03d54b3322b0184b4f449e866\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40f91045c8fa545a27b7e0cb55362304d8b030cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\ad7a6a73105339f78d66875fedb50791b799a490\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c526cb38dc4b100246086b83cff651af61cfb550\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\13fdfe3c51f41a2fa5aa5dc2050a0200a454ab3a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e5b4b535c4c338bc1af43b4a0822c9790b1d252\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\62377e751e659aca24a5dd9ae6d4ca47263258b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_144807cd07d5124d442e0b6d53221cca38ca7b76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\6031066b12832211c95418f1c2f31b2667f40289\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_465d22fdb6834e6334deed8dba7568430b9912a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\dd2207a50c88c3a056bbc33c9ac13aa5b48d07a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae3f34d9148199cd65dcaa7cf9ea20657283af8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\72e70fc4d6f1c27cb301166c304856626fd18b8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_202dbbcd96441173b89f837ed2df3fed4aed1523\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\a8c98ce74c3bc29da6658ec43c3bf46b8e87320d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_840649b262bca18f5e64666f375b0131733ff575\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\0130a3f1d3ca46f6dd91aedbce85d34d4c4e9b39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b04b1c87fc971f3b9c2d648d8b7e76db54ea5fa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\bf809448eb9c34db71e058b4b8a48dd5227a180e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cd1560f2a27dc35bf460d687a7199fca09a6f71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\aefaa17e7be21b34cb80039677c8289af494fa29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b475c4b262302547bc49e07ff3118bc2f9a5879e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\stud\.android\build-cache\8b72237c5a7d370e3959a62a81ea2a7a3f0cd5df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="T:\MeasureApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ed693e17086dc2129dc0bd19f7c4f680615f0d0\classes.dex" />
+    </item>
+
+</items>
