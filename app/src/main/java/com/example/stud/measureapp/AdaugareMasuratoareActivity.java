@@ -38,6 +38,14 @@ public class AdaugareMasuratoareActivity extends AppCompatActivity {
                     Log.i("STOP", punct.toString());
                 }
                 masuratoare.setListaPuncte(listaPuncte);
+
+                Intent intentFinish =  new Intent();
+                intentFinish.putExtra("masuratoare", masuratoare);
+                AdaugareMasuratoareActivity.this.setResult(RESULT_OK, intentFinish);
+
+                context.unregisterReceiver(this);
+
+                AdaugareMasuratoareActivity.this.finish();
             }
         };
 
@@ -60,7 +68,6 @@ public class AdaugareMasuratoareActivity extends AppCompatActivity {
                     startService(intent);
 
                     registerReceiver(broadcastReceiver, new IntentFilter("lista"));
-
                 }
             }
         });
@@ -70,14 +77,6 @@ public class AdaugareMasuratoareActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intentService = new Intent(AdaugareMasuratoareActivity.this, ServiceLocatie.class);
                 stopService(intentService);
-
-                unregisterReceiver(broadcastReceiver);
-
-                Intent intent =  new Intent();
-                intent.putExtra("masuratoare", masuratoare);
-                setResult(RESULT_OK, intent);
-
-                finish();
             }
         });
     }
