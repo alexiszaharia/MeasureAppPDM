@@ -1,5 +1,9 @@
 package com.example.stud.measureapp;
 
+import android.arch.persistence.room.Entity;
+import android.arch.persistence.room.Ignore;
+import android.arch.persistence.room.PrimaryKey;
+
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Date;
@@ -8,13 +12,17 @@ import java.util.Date;
  * Created by stud on 2/28/2018.
  */
 
+@Entity(tableName = "masuratori")
 public class Masuratoare implements Serializable{
     private String denumire = "";
+    @Ignore
     private ArrayList<Punct> listaPuncte = new ArrayList<>();
-    private Date data = null;
+    private String data = null;
+    @PrimaryKey(autoGenerate = true)
     private int id;
 
-    public Masuratoare(String denumire, ArrayList<Punct> puncte, Date data, int id){
+    @Ignore
+    public Masuratoare(String denumire, ArrayList<Punct> puncte, String data, int id){
         this.denumire = denumire;
         this.listaPuncte = puncte;
         this.data = data;
@@ -41,11 +49,11 @@ public class Masuratoare implements Serializable{
         this.listaPuncte = listaPuncte;
     }
 
-    public Date getData() {
+    public String getData() {
         return data;
     }
 
-    public void setData(Date data) {
+    public void setData(String data) {
         this.data = data;
     }
 

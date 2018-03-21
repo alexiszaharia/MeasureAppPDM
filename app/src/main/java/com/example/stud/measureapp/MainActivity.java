@@ -18,13 +18,14 @@ import android.view.MenuItem;
 
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
     RecyclerView recyclerView;
     AdaptorLista adaptorLista;
-    ArrayList<Masuratoare> listaMasuratori = new ArrayList<>();
+    List<Masuratoare> listaMasuratori = new ArrayList<>();
 
 
     @Override
@@ -52,7 +53,7 @@ public class MainActivity extends AppCompatActivity
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
-
+/*
         Punct punct1 = new Punct(40, 45);
         Punct punct2 = new Punct(50, 60);
         Punct punct3 = new Punct(60, 75);
@@ -60,8 +61,12 @@ public class MainActivity extends AppCompatActivity
         listaPuncte.add(punct1);
         listaPuncte.add(punct2);
         listaPuncte.add(punct3);
-        Masuratoare masuratoare = new Masuratoare("mas1", listaPuncte, new Date(), 1);
+        Masuratoare masuratoare = new Masuratoare("mas1", listaPuncte, new Date().toString(), 1);
+
         listaMasuratori.add(masuratoare);
+  */
+        listaMasuratori = BDMasuratori.getInstance(getApplicationContext()).getMasuratoareDao().selectMasuratori();
+
         recyclerView = (RecyclerView) findViewById(R.id.recycler);
         adaptorLista = new AdaptorLista(listaMasuratori);
         recyclerView.setAdapter(adaptorLista);

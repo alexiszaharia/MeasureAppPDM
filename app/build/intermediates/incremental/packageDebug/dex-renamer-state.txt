@@ -1,7 +1,0 @@
-#Wed Mar 14 17:54:29 EET 2018
-base.0=T\:\\MeasureApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5a678a1aee2230c5aff0f16d59a67ed7d502c559
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=T\:\\MeasureApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ec288cdcdc58633905f3e44660ccdc9bcc3de6d2\\classes.dex
-base.1=T\:\\MeasureApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_ec288cdcdc58633905f3e44660ccdc9bcc3de6d2
-file.0=T\:\\MeasureApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5a678a1aee2230c5aff0f16d59a67ed7d502c559\\classes.dex

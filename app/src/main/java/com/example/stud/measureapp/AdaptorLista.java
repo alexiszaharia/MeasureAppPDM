@@ -8,6 +8,7 @@ import android.widget.TextView;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by stud on 2/28/2018.
@@ -15,7 +16,7 @@ import java.util.ArrayList;
 
 public class AdaptorLista extends RecyclerView.Adapter<AdaptorLista.ViewHolder>{
 
-    private ArrayList<Masuratoare> listaMasuratori;
+    private List<Masuratoare> listaMasuratori;
 
     public class ViewHolder extends RecyclerView.ViewHolder{
 
@@ -28,7 +29,7 @@ public class AdaptorLista extends RecyclerView.Adapter<AdaptorLista.ViewHolder>{
         }
     }
 
-    public AdaptorLista(ArrayList<Masuratoare> masuratori) {
+    public AdaptorLista(List<Masuratoare> masuratori) {
         this.listaMasuratori = masuratori;
     }
 
@@ -43,7 +44,7 @@ public class AdaptorLista extends RecyclerView.Adapter<AdaptorLista.ViewHolder>{
     public void onBindViewHolder(AdaptorLista.ViewHolder holder, int position) {
         SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy");
         holder.denumire.setText(listaMasuratori.get(position).getDenumire() + " | ");
-        holder.data.setText(sdf.format(listaMasuratori.get(position).getData()) + " | ");
+        holder.data.setText(listaMasuratori.get(position).getData() + " | ");
         holder.suprafata.setText("" + listaMasuratori.get(position).getSuprafata());
     }
 

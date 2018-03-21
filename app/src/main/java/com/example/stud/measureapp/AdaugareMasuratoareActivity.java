@@ -45,6 +45,8 @@ public class AdaugareMasuratoareActivity extends AppCompatActivity {
 
                 context.unregisterReceiver(this);
 
+                BDMasuratori.getInstance(getApplicationContext()).getMasuratoareDao().insert(masuratoare);
+
                 AdaugareMasuratoareActivity.this.finish();
             }
         };
@@ -62,7 +64,7 @@ public class AdaugareMasuratoareActivity extends AppCompatActivity {
                 } else {
                     masuratoare = new Masuratoare();
                     masuratoare.setDenumire(denumireMasuratoare.getText().toString());
-                    masuratoare.setData(new Date());
+                    masuratoare.setData(new Date().toString());
 
                     Intent intent = new Intent(AdaugareMasuratoareActivity.this, ServiceLocatie.class);
                     startService(intent);
