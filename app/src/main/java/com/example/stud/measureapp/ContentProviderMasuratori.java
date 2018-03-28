@@ -26,7 +26,11 @@ public class ContentProviderMasuratori extends ContentProvider {
     @Override
     public Cursor query(@NonNull Uri uri, @Nullable String[] projection, @Nullable String selection, @Nullable String[] selectionArgs, @Nullable String sortOrder) {
 
-        return BDMasuratori.getInstance(getContext()).getMasuratoareDao().selectCursorMasuratori();
+        if(uri.equals(Uri.parse("MASURATORI_URI"))) {
+            return BDMasuratori.getInstance(getContext()).getMasuratoareDao().selectCursorMasuratori();
+        } else {
+            return null;
+        }
     }
 
     @Nullable

@@ -94,4 +94,12 @@ public class MasuratoareDAO_Impl implements MasuratoareDAO {
       _statement.release();
     }
   }
+
+  @Override
+  public Cursor selectCursorMasuratori() {
+    final String _sql = "SELECT * FROM masuratori";
+    final RoomSQLiteQuery _statement = RoomSQLiteQuery.acquire(_sql, 0);
+    final Cursor _tmpResult = __db.query(_statement);
+    return _tmpResult;
+  }
 }

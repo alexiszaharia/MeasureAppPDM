@@ -34,16 +34,25 @@ public class MasuratoareWidgetFactory implements RemoteViewsService.RemoteViewsF
 
         listaMasuratori = new ArrayList<>();
 
-        Punct punct1 = new Punct(40, 45);
-        Punct punct2 = new Punct(50, 60);
-        Punct punct3 = new Punct(60, 75);
-        ArrayList<Punct> listaPuncte = new ArrayList<>();
-        listaPuncte.add(punct1);
-        listaPuncte.add(punct2);
-        listaPuncte.add(punct3);
-        Masuratoare masuratoare = new Masuratoare("mas1", listaPuncte, new Date().toString(), 1);
+        while (cursor.moveToNext()) {
+            Masuratoare masuratoare = new Masuratoare();
+            masuratoare.setDenumire(cursor.getString(1));
+            masuratoare.setData(cursor.getString(2));
+            masuratoare.setId(cursor.getInt(1));
 
-        listaMasuratori.add(masuratoare);
+            Punct punct1 = new Punct(40, 45);
+            Punct punct2 = new Punct(50, 60);
+            Punct punct3 = new Punct(60, 75);
+            ArrayList<Punct> listaPuncte = new ArrayList<>();
+            listaPuncte.add(punct1);
+            listaPuncte.add(punct2);
+            listaPuncte.add(punct3);
+            //Masuratoare masuratoare = new Masuratoare("mas1", listaPuncte, new Date().toString(), 1);
+            masuratoare.setListaPuncte(listaPuncte);
+
+            listaMasuratori.add(masuratoare);
+        }
+        cursor.close();
     }
 
     @Override

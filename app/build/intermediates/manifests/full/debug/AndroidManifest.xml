@@ -66,6 +66,10 @@
             android:name="com.example.stud.measureapp.WidgetService"
             android:permission="android.permission.BIND_REMOTEVIEWS" />
 
+        <provider
+            android:name="com.example.stud.measureapp.ContentProviderMasuratori"
+            android:authorities="ContentProviderMasuratori" />
+
         <meta-data
             android:name="android.support.VERSION"
             android:value="26.1.0" />

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Mar 28 17:50:33 EEST 2018
+#Wed Mar 28 18:52:20 EEST 2018
 20.base=T\:\\MeasureApp3.0\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 143.base=T\:\\MeasureApp3.0\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_
 493.base=T\:\\MeasureApp3.0\\app\\build\\intermediates\\res\\debug\\resources-debug.ap_

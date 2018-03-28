@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-44:12
+ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-47:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\stud\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e9d3601ba86d7101d566583534cf74a7\AndroidManifest.xml:17:1-31:12
 MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\stud\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\9dcd15c7ca65eb1a64f9b0b8688fcbea\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\stud\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\b251c7a74973c6ec4794483739f43e6b\AndroidManifest.xml:2:1-9:12
@@ -77,20 +77,20 @@ MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\stud\.
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\stud\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\0f764f9606a6b4ac8cd58b806277c631\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\stud\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\72a6e23327bdecb271f3622674b75a6e\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\stud\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\e8b545217ddcedb6424750ced3826e33\AndroidManifest.xml:17:1-30:12
-INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-44:12
-INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
 		ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml
 		INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml
-		ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-44:12
+		ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml
-		ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-44:12
+		ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:2:11-69
@@ -99,7 +99,7 @@ ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:5:5-79
 	android:name
 		ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:5:22-76
 application
-ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:7:5-42:19
+ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:7:5-45:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\stud\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e9d3601ba86d7101d566583534cf74a7\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\stud\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\e9d3601ba86d7101d566583534cf74a7\AndroidManifest.xml:25:5-29:19
 MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\stud\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\9dcd15c7ca65eb1a64f9b0b8688fcbea\AndroidManifest.xml:5:5-20
@@ -282,6 +282,12 @@ ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:40:9-41:71
 		ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:41:13-69
 	android:name
 		ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:40:18-47
+provider#com.example.stud.measureapp.ContentProviderMasuratori
+ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:42:9-44:56
+	android:authorities
+		ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:43:13-60
+	android:name
+		ADDED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml:44:13-54
 uses-sdk
 INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from T:\MeasureApp3.0\app\src\main\AndroidManifest.xml
