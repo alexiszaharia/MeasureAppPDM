@@ -3,6 +3,7 @@ package com.example.stud.measureapp;
 import android.arch.persistence.room.Dao;
 import android.arch.persistence.room.Insert;
 import android.arch.persistence.room.Query;
+import android.database.Cursor;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -25,4 +26,6 @@ public interface MasuratoareDAO {
     public List<Masuratoare> selectMasuratori();
     //etc...
 
+    @Query("SELECT * FROM masuratori")
+    public Cursor selectCursorMasuratori();
 }

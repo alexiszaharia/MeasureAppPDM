@@ -12,12 +12,12 @@
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\72a6e23327bdecb271f3622674b75a6e\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\72a6e23327bdecb271f3622674b75a6e\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_08_dark.png.flat",
@@ -64,36 +64,36 @@
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_powered_by_google_dark.png.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.0.4.aar\\8902774ffb6f48c883099ce67ea32f56\\res\\drawable-xxhdpi-v4\\powered_by_google_dark.png"
-    },
-    {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_mini_controller_play.xml.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\b251c7a74973c6ec4794483739f43e6b\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_powered_by_google_dark.png.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-11.0.4.aar\\8902774ffb6f48c883099ce67ea32f56\\res\\drawable-xxhdpi-v4\\powered_by_google_dark.png"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_collapse_05.png.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_05.png"
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_collapse_05.png.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_05.png"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_plusone_small_off_client.png.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-plus-11.0.4.aar\\940f71f2cfecd6bcc003d5124e6abff4\\res\\drawable-xxhdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_powered_by_google_light.png.flat",
@@ -128,12 +128,12 @@
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\b251c7a74973c6ec4794483739f43e6b\\res\\drawable-mdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mr_dialog_material_background_light.xml.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable\\mr_dialog_material_background_light.xml"
-    },
-    {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mr_dialog_material_background_light.xml.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable\\mr_dialog_material_background_light.xml"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_cast_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -216,12 +216,12 @@
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
-        "source": "T:\\MeasureApp3.0\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
-    },
-    {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\72a6e23327bdecb271f3622674b75a6e\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "T:\\MeasureApp3.0\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_14_dark.png.flat",
@@ -240,12 +240,12 @@
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\b251c7a74973c6ec4794483739f43e6b\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\72a6e23327bdecb271f3622674b75a6e\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -272,20 +272,20 @@
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\b251c7a74973c6ec4794483739f43e6b\\res\\drawable-xhdpi-v4\\cast_abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\e9d3601ba86d7101d566583534cf74a7\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
-    },
-    {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_vol_type_speaker_light.png.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable-xxhdpi-v4\\ic_vol_type_speaker_light.png"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\e9d3601ba86d7101d566583534cf74a7\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\e9d3601ba86d7101d566583534cf74a7\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_00_light.png.flat",
@@ -372,16 +372,16 @@
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_07_light.png"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_vol_type_speaker_group_dark.png.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable-hdpi-v4\\ic_vol_type_speaker_group_dark.png"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
@@ -584,12 +584,12 @@
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\b251c7a74973c6ec4794483739f43e6b\\res\\drawable-xxhdpi-v4\\quantum_ic_stop_grey600_36.png"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_expand_05.png.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable-xxxhdpi-v4\\ic_group_expand_05.png"
-    },
-    {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_expand_05.png.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable-xxxhdpi-v4\\ic_group_expand_05.png"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_audiotrack_light.png.flat",
@@ -608,16 +608,16 @@
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\b251c7a74973c6ec4794483739f43e6b\\res\\drawable\\cast_ic_notification_play.xml"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_volume_up_white_36.png.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\b251c7a74973c6ec4794483739f43e6b\\res\\drawable-mdpi-v4\\quantum_ic_volume_up_white_36.png"
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\e9d3601ba86d7101d566583534cf74a7\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_art_track_grey600_48.png.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\b251c7a74973c6ec4794483739f43e6b\\res\\drawable-mdpi-v4\\quantum_ic_art_track_grey600_48.png"
     },
     {
-        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\e9d3601ba86d7101d566583534cf74a7\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_volume_up_white_36.png.flat",
+        "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\b251c7a74973c6ec4794483739f43e6b\\res\\drawable-mdpi-v4\\quantum_ic_volume_up_white_36.png"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_stop_white_24.png.flat",
@@ -1118,6 +1118,10 @@
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_media_play_light.png.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable-xxhdpi-v4\\ic_media_play_light.png"
+    },
+    {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_example_appwidget_preview.png.flat",
+        "source": "T:\\MeasureApp3.0\\app\\src\\main\\res\\drawable-nodpi\\example_appwidget_preview.png"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mr_media_pause_light.xml.flat",
@@ -2228,6 +2232,10 @@
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_element_lista_widget.xml.flat",
+        "source": "T:\\MeasureApp3.0\\app\\src\\main\\res\\layout\\element_lista_widget.xml"
+    },
+    {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mr_button_connecting_dark.xml.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable\\mr_button_connecting_dark.xml"
     },
@@ -2768,6 +2776,10 @@
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\fb679d903a9afed0a5b28324b6804165\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_masuratoare_widget.xml.flat",
+        "source": "T:\\MeasureApp3.0\\app\\src\\main\\res\\layout\\masuratoare_widget.xml"
+    },
+    {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_18_light.png.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_18_light.png"
     },
@@ -2822,6 +2834,10 @@
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_group_collapse_07.png.flat",
         "source": "C:\\Users\\stud\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\2483a7c99977042219abd753b4b28dc1\\res\\drawable-xxxhdpi-v4\\ic_group_collapse_07.png"
+    },
+    {
+        "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\xml_masuratoare_widget_info.xml.flat",
+        "source": "T:\\MeasureApp3.0\\app\\src\\main\\res\\xml\\masuratoare_widget_info.xml"
     },
     {
         "merged": "T:\\MeasureApp3.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_13_dark.png.flat",
