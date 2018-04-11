@@ -1,7 +1,4 @@
-#Wed Mar 28 18:52:15 EEST 2018
-base.0=T\:\\MeasureApp3.0\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
-renamed.1=classes2.dex
+#Wed Apr 11 17:53:31 EEST 2018
+base.0=T\:\\MeasureApp3.0\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30
 renamed.0=classes.dex
-file.1=T\:\\MeasureApp3.0\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes2.dex
-base.1=T\:\\MeasureApp3.0\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
-file.0=T\:\\MeasureApp3.0\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes.dex
+file.0=T\:\\MeasureApp3.0\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\30\\classes.dex

@@ -1,5 +1,7 @@
 package com.example.stud.measureapp;
 
+import android.content.Intent;
+import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -21,11 +23,13 @@ public class AdaptorLista extends RecyclerView.Adapter<AdaptorLista.ViewHolder>{
     public class ViewHolder extends RecyclerView.ViewHolder{
 
         TextView denumire, data, suprafata;
+        CardView cardView;
         public ViewHolder(View itemView) {
             super(itemView);
             denumire = itemView.findViewById(R.id.tv_denumire);
             data = itemView.findViewById(R.id.tv_data);
             suprafata = itemView.findViewById(R.id.tv_suprafata);
+            cardView = itemView.findViewById(R.id.cardView);
         }
     }
 
@@ -41,11 +45,22 @@ public class AdaptorLista extends RecyclerView.Adapter<AdaptorLista.ViewHolder>{
     }
 
     @Override
-    public void onBindViewHolder(AdaptorLista.ViewHolder holder, int position) {
+    public void onBindViewHolder(AdaptorLista.ViewHolder holder, final int position) {
         SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy");
         holder.denumire.setText(listaMasuratori.get(position).getDenumire() + " | ");
         holder.data.setText(listaMasuratori.get(position).getData() + " | ");
         holder.suprafata.setText("" + listaMasuratori.get(position).getSuprafata());
+
+        holder.cardView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Masuratoare masuratoare = listaMasuratori.get(position);
+                ArrayList<Punct> listaPuncte = masuratoare.getListaPuncte();
+                Intent intent = new Intent(v.getContext(), MapsActivity.class);
+                intent.putExtra("lista_puncte", listaPuncte);
+                v.getContext().startActivity(intent);
+            }
+        });
     }
 
     @Override
